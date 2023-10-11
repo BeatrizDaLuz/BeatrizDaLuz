@@ -1,16 +1,11 @@
-### Hi there 👋
+### Beatriz da Luz
+Sou estudante do Colégio Reni Correia Gamper de Manoel Ribas pr
 
-<!--
-**BeatrizDaLuz/BeatrizDaLuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Tenho 15 anos
+- Estou no primeiro ano do ensino médio
+- Sou boa em inglês:
+- Minha familia é composta de seis pessoas
+- Adoro ler📚
+- Estudo no período da manhã
+- Amo maças🍎
+- Meu animal favorito é a raposa🦊
